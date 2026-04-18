@@ -57,7 +57,10 @@ check their papers, emails, and other important documents.
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
 
-
+- [ToolPry](https://toolpry.com) - Free collection of 15+ developer utility tools 
+     (color converter, regex tester, markdown preview, UUID generator, etc.) 
+     hosted on Cloudflare Pages. Privacy-respecting, no localStorage. 
+     Perfect for reducing context switching.
 
 ## License
 
